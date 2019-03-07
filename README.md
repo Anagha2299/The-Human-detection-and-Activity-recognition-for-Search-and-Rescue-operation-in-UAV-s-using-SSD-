@@ -1,0 +1,1 @@
+# The-Human-detection-and-Activity-recognition-for-Search-and-Rescue-operation-in-UAV-s-using-SSD-
